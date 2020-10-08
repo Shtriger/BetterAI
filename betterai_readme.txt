@@ -9,9 +9,9 @@ Mod title::                                							BETTER AI
 ==================================================================
 Better AI mod made by Shtriger. 
 [img]https://i.imgur.com/H03Ilw8.png[/img]
-[h1]Latest version : 1.5.6
+[h1]Latest version : 1.6.0
 This works on SP/MP 
-Supports game version: 1.9.0 [/h1]
+Supports game version: 1.9.3 [/h1]
 [img]https://steamusercontent-a.akamaihd.net/ugc/2430131809748822113/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]
 
 [h1]Changes this mod brings: [/h1]
@@ -61,6 +61,10 @@ Thank you and enjoy!
 
 ~Shtriger
 ==================================================================
+Update 1.6.0
+- Updated version
+- Works now with most other mods
+
 Update 1.5.6
 - Fixes
 
