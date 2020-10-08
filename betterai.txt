@@ -3,21 +3,28 @@
 #
 #The important scripts are protectet, dont even try it :)
 #
+using BetterAI;
+public class Player = _player;
+   {
+      if Player = true
+      exec {
+		common\#;
+      }
+   }
 {
 	{
 	\common\#
-	\common\#
-	\common\#
-	\events\WTT_Germany.txt
+	\common\_common_BetterAI.txt
+	\events\_Event_BetterAi.txt
 	\betterai\#
 	}
 }
 {
 	{
 	script_event = {
-		id = spt_betterai.1
-		title = spt_betterai.1.t
-		desc = spt_betterai.1.d
+		id = spt_TEAW.1
+		title = spt_TEAW.1.t
+		desc = spt_TEAW.1.d
 		}
 	}
 }
